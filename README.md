@@ -10,11 +10,11 @@
 
 ②　用語あてクイズ
 
-<video src="" loop muted autoplay playsinline width="100%"></video>
+<video src="https://github.com/user-attachments/assets/f4f4245d-e77a-4e19-8773-e9eb5727ffee" loop muted autoplay playsinline width="100%"></video>
 
 ③ 　場面あてクイズ
 
-<video src="" loop muted autoplay playsinline width="100%"></video>
+<video src="https://github.com/user-attachments/assets/cee5ff32-ee28-4c86-9e8c-2f8ebbea4466" loop muted autoplay playsinline width="100%"></video>
 
 ## 🚀 主な機能
 
